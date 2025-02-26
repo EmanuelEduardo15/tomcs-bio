@@ -18,5 +18,5 @@ Este repositório contém dados, códigos e figuras suplementares para o artigo 
 ## Como Usar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/EmanuelEduardo/tomcs-bio.git
+   git clone https://github.com/EmanuelEduardo15/tomcs-bio.git
    cd tomcs-bio
